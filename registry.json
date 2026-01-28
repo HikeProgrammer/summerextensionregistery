@@ -1,0 +1,11 @@
+{
+  version: "0.0.1"
+  extensions:[
+    "adblocker": {
+      path: "adblocker.asar",
+      name: "My AdBlocker",
+      description: "Default ad blocker, inspired by ghostery/adblocker"
+    }
+  ]
+
+}
