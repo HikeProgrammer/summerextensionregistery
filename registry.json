@@ -1,10 +1,10 @@
 {
-  version: "0.0.1",
-  extensions:[
+  "version": "0.0.1",
+  "extensions":[
     "adblocker": {
-      path: "https://github.com/HikeProgrammer/summerextensionregistery/raw/refs/heads/main/adblocker.asar",
-      name: "My AdBlocker",
-      description: "Default ad blocker, inspired by ghostery/adblocker"
+      "path": "https://github.com/HikeProgrammer/summerextensionregistery/raw/refs/heads/main/adblocker.asar",
+      "name": "My AdBlocker",
+      "description": "Default ad blocker, inspired by ghostery/adblocker"
     }
   ]
 
